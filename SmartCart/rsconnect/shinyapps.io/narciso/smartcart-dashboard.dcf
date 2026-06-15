@@ -1,0 +1,10 @@
+name: smartcart-dashboard
+title: SmartCart Dashboard
+username: narciso
+account: narciso
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17512327
+bundleId: 12130565
+url: https://narciso.shinyapps.io/smartcart-dashboard/
+version: 1
